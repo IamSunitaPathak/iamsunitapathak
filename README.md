@@ -10,7 +10,7 @@ Motivated and detail-oriented Reservoir Engineer with over three years of experi
 
 ### Education  
 
-🎓 MS Data Science @ University of Pennsylvania (Jan 2025 - Present)  
+🎓 MSE Data Science @ University of Pennsylvania (Jan 2025 - Present)  
 👩‍💻 CORe Credential of Readiness @ Harvard Business School Online (Nov 2023 - Feb 2024)  
 👩‍🎓 BS Petroleum Engineering @ Texas Tech University (Aug 2019 - May 2022)  
 

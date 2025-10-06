@@ -34,3 +34,13 @@ Motivated and detail-oriented Reservoir Engineer with over three years of experi
 🏓 CMG Reservoir Simulation Model Creation & Analysis using BUILDER & RESULTS @ CMG (Feb 2020)  
 🥊 Don-Nan Gas Lift & SRP Introductory School @ LUFKIN Don-Nan (Oct 2019)  
 🥋 Well Control Training @ Wild Well (Oct 2019)
+
+### Languages & Tools
+![Python](https://img.shields.io/badge/Code-Python-blue)  ![ARIES](https://img.shields.io/badge/Software-ARIES-orange)  ![PHDWin](https://img.shields.io/badge/Software-PHDWin-yellow)  ![Harmony](https://img.shields.io/badge/Software-Harmony-lightgrey)  ![Enverus](https://img.shields.io/badge/Tool-Enverus-green)  ![Enertia](https://img.shields.io/badge/Tool-Enertia-teal)  ![Excel VBA](https://img.shields.io/badge/Tool-Excel%20VBA-brightgreen)  ![SQL](https://img.shields.io/badge/Database-SQL-blueviolet)    ![Machine Learning](https://img.shields.io/badge/Skill-Machine%20Learning-red)  ![Data Science](https://img.shields.io/badge/Field-Data%20Science-9cf)  ![Reservoir Simulation](https://img.shields.io/badge/Skill-Reservoir%20Simulation-brown)  ![Type Curve Analysis](https://img.shields.io/badge/Skill-Type%20Curve%20Analysis-yellowgreen)  ![GitHub](https://img.shields.io/badge/Tool-GitHub-black)  ![Jupyter](https://img.shields.io/badge/Tool-Jupyter-orange)  
+
+
+### Connect with me
+
+### 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsunitapathak)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/iamsunitapathak)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=website&logoColor=white)](https://www.sunitapathak.com/)

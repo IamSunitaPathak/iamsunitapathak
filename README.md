@@ -41,6 +41,4 @@ Motivated and detail-oriented Reservoir Engineer with over three years of experi
 
 ### Connect with me
 
-### 🌐 Connect with Me  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsunitapathak)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/iamsunitapathak)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=website&logoColor=white)](https://www.sunitapathak.com/)
